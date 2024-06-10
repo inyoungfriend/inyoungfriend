@@ -7,18 +7,10 @@
 <br />
 
 <p align="center">
-안녕하세요! 저는 열정적인 프론트엔드 개발자이자 사람들이 필요로 하는 것이 무엇인지 고민하는 <span>$\tt{\large{\color{#31A3F7}프론트엔드 \ 개발자 }}$</span> 입니다<br />
+안녕하세요! 저는 열정적인 프론트엔드 개발자이자 사람들이 필요로 하는 것이 무엇인지 고민하는 <span>$\tt{\large{\color{#31A3F7}프론트엔드 \ 개발자 }}$</span> 입니다.<br />
 겸손한 자신감을 가지며 늘 나아가고 있습니다 :)
 </p>
 
-<br />
-<br />
-
-<p align="center">
-  <a href="https://velog.io/@kim00ngjun_0112/posts" target="_blank"><img src="https://github.com/kimD0ngjun/memory_test/assets/129869700/5dc82abc-8f2e-4b9d-8e2e-73406979c61e" alt="velog" width="50" height="51" align="center"/></a>&nbsp;
-  <a href="https://kimd0ngjun.notion.site/15a08fc25d5d419d9f60b2e19a992718?pvs=4"><img src="https://github.com/kimD0ngjun/memory_test/assets/129869700/803ac415-2ca5-41ed-bfdd-636261db4e60" alt="notion_resume" width="60" height="65" align="center"/></a>
-  <a href="mailto:chickentasty0112@gmail.com" target="_blank"><img src="https://github.com/kimD0ngjun/memory_test/assets/129869700/953ff03f-479d-4761-b6d0-f7f294a3f6d6" alt="gmail_contact" width="60" height="65" align="center"/></a>
-</p>
 <br />
 <br />
 
