@@ -90,7 +90,7 @@
 🐥  협업을 통해 팀원들과 함께 최상의 결과물을 만들어내는 것을 즐깁니다. 
 
 🐣  차별화된 서비스를 만드는 개발자, 꼼꼼하게 빈틈을 채워나가는 개발자를 꿈꾸고 있습니다.
-
+![Chart](https://btc-price-widget.vercel.app/api/charts?coin=sol&theme=default)
 <!--
 **inyoungfriend/inyoungfriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
