@@ -7,11 +7,12 @@
 <br />
 
 <p align="center">
-안녕하세요! 저는 열정적인 프론트엔드 개발자이자 사람들이 필요로 하는 것이 무엇인지 고민하는 <span>$\tt{\large{\color{#31A3F7}프론트엔드 \ 개발자 }}$</span> 입니다.<br />
+안녕하세요! 저는 솔라나 대주주이며 열정적인 프론트엔드 개발자이자 사람들이 필요로 하는 것이 무엇인지 고민하는 <span>$\tt{\large{\color{#31A3F7}프론트엔드 \ 개발자 }}$</span> 입니다.<br />
 겸손한 자신감을 가지며 늘 나아가고 있습니다 :)
 </p>
 
 <br />
+![Chart](https://btc-price-widget.vercel.app/api/charts?coin=sol&theme=default)
 <br />
 
 ---
@@ -90,7 +91,7 @@
 🐥  협업을 통해 팀원들과 함께 최상의 결과물을 만들어내는 것을 즐깁니다. 
 
 🐣  차별화된 서비스를 만드는 개발자, 꼼꼼하게 빈틈을 채워나가는 개발자를 꿈꾸고 있습니다.
-![Chart](https://btc-price-widget.vercel.app/api/charts?coin=sol&theme=default)
+
 <!--
 **inyoungfriend/inyoungfriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
